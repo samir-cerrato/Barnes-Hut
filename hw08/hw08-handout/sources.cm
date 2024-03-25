@@ -1,0 +1,17 @@
+group is
+      $/basis.cm
+      ../src/sequence-uncurried/sources.cm
+      bbox.sig
+      bbox.sml
+      mechanics.sig
+      mechanics.sml
+      transcripts.sml
+      naiveNBody.sml
+      plane.sml
+      scalar.sig
+      simulation.sml
+      space.sig
+      testdata.sml
+      scalar.sml
+      nbody.sig
+      barnes-hut.sml
